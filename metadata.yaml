@@ -1,0 +1,32 @@
+_repo: The-prince-of-space_73750
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williamson, Jack
+    aliases:
+    - Williamson, John Stewart
+    - Stewart, Will
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '31775'
+    url: http://www.gutenberg.org/2009/agents/31775
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Williamson
+description: ''
+gutenberg_issued: '2024-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73750'
+language: en
+pgterms:marc905: 20240330044813williamson
+pgterms:marc906: '1931'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aJamaica, NY :$bExperimenter Publications Inc., $c1931.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The prince of space
+url: http://www.gutenberg.org/ebooks/73750
